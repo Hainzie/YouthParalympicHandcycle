@@ -7,3 +7,5 @@ This repository contains my contributions to the [Youth Paralympic Handcycle](ht
  - [SolidWorks Files](/BrakeSubsystem_SolidWorksFiles)
 
 ![alt text](https://github.com/Hainzie/YouthParalympicHandcycle/blob/main/Images/BrakeSubsystemImage.jpeg?raw=true)
+
+*NOTE This repository only contains my work. The work of my peers has been redacted from the final report.*

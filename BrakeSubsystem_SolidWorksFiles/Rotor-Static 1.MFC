@@ -1,0 +1,16 @@
+[StartTime]
+Rotor-Static 1.MFC=5s
+[SolverState]
+Rotor-Static 1.MFC=2
+[MainFrame]
+Rotor-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Rotor-Static 1.MFC=No
+[SolverType]
+Rotor-Static 1.MFC=Linear Analysis
+[StudyType]
+Rotor-Static 1.MFC=0
+[StudyName]
+Rotor-Static 1.MFC=Static 1
+[Solver]
+Rotor-Static 1.MFC=Iterative

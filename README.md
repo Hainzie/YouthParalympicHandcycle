@@ -4,7 +4,6 @@ This repository contains my contributions to the [Youth Paralympic Handcycle](ht
 
 ## Table of Contents
  - [Final Report](https://ihaines.com/assets/YouthParalympicHandcycle/YouthParalympicHandcycle_FinalReport.pdf)
- - [SolidWorks Files](/BrakeSubsystem_SolidWorksFiles)
 
 ![alt text](https://github.com/Hainzie/YouthParalympicHandcycle/blob/main/Images/BrakeSubsystemImage.jpeg?raw=true)
 
